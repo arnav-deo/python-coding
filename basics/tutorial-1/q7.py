@@ -1,4 +1,7 @@
-count=0
-while count < 5:
+# count=0
+# while count < 5:
+#     print('i love python')
+#     count += 1
+
+for i in range(5):
     print('i love python')
-    count += 1
